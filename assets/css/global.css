@@ -3,6 +3,13 @@
 
 :root {
     /* Colours */
+
+    /* These are the main colors used throughout the thene */
+    --background: #303132;
+    --midground: #4a4a4a;
+    --foreground: #fff;
+    /* These are the main colors used throughout the thene */
+
     --blue: #3eb0ef;
     --green: #a4d037;
     --purple: #ad26b4;
