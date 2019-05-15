@@ -1,7 +1,7 @@
 {
     "name": "casper-dark",
     "description": "The default personal blogging theme for Ghost - now in dark mode! Beautiful, minimal and responsive.",
-    "version": "2.10.0-dark.0.0.2",
+    "version": "2.10.1-dark.0.0.2",
     "engines": {
         "ghost": ">=2.0.0",
         "ghost-api": "v2"
