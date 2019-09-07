@@ -7,6 +7,10 @@
         "ghost-api": "v2"
     },
     "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
     "scripts": {
         "dev": "gulp",
         "zip": "gulp zip",
