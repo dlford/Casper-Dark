@@ -1,6 +1,6 @@
 # Dark Theme
 
-Modified by dlford on 2018-11-27 - Changed all white to shades of dark grey, adjusted some other css assets to taste.
+This is a fork of [TryGhost/Casper](https://github.com/tryghost/casper) that is maintained to keep up with the upstream changes, I've changed all white to shades of dark grey and adjusted some other css assets to fit in well with the dark backgrounds.
 
 # Casper
 
@@ -8,7 +8,7 @@ The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the la
 
 &nbsp;
 
-<!-- ![screenshot-desktop](https://user-images.githubusercontent.com/120485/27221326-1e31d326-5280-11e7-866d-82d550a7683b.jpg) -->
+![screenshot-desktop](https://raw.githubusercontent.com/dlford/Casper-Dark/master/assets/screenshot-desktop.jpg)
 
 &nbsp;
 
