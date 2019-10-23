@@ -1,3 +1,9 @@
+# Notice
+
+**This project is no longer maintained as of October 23rd, 2019.**
+
+As of version 3 the default Ghost theme (Casper) supports dark mode out of the box, which is great news!  That also means that there is nothing left for this project to do, so my work here is done.
+
 # Dark Theme
 
 This is a fork of [TryGhost/Casper](https://github.com/tryghost/casper) that is maintained to keep up with the upstream changes, I've changed all white to shades of dark grey and adjusted some other css assets to fit in well with the dark backgrounds.
